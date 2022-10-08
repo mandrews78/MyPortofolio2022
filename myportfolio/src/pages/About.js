@@ -1,10 +1,10 @@
-import React from 'react';
+import React from 'react'
 
 function About() {
+  return (
+    <div>About
 
-    return (
-        <div className='About'>
-            <h3>About Me</h3>
+    <h3>About Me</h3>
             <p>My name is Michael Andrews. I have about 17 years of experience in Information Technology. Coding is fun but has also been a 
                 challenge for me. I have a system administration and data center 
                 background and have never had to code. In supporting various linux systems, 
@@ -12,7 +12,8 @@ function About() {
                 industry is moving to mostly cloud based solutions. I decided to 
                 challenge myself and aquire the skill of web development. I hope 
                 that this course helps me in my career growth.</p>
-            </div>
+    </div>
     )
 }
-export default About;
+
+export default About

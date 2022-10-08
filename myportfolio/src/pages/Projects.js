@@ -1,12 +1,9 @@
-import React from "react";
-import passwordGenerator from './Images/pwGenerator.png';
+import React from 'react'
 
-function Projects() {
-    return (
-        <div>
-            {passwordGenerator}
-        <h1>Password Generator</h1>
-        </div>
-    )
+function projects() {
+  return (
+    <div>projects</div>
+  )
 }
-export default Projects
+
+export default projects
