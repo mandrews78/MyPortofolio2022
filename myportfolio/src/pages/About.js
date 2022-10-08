@@ -2,9 +2,8 @@ import React from 'react'
 
 function About() {
   return (
-    <div>About
-
-    <h3>About Me</h3>
+    <div>
+    <h2>About Me</h2>
             <p>My name is Michael Andrews. I have about 17 years of experience in Information Technology. Coding is fun but has also been a 
                 challenge for me. I have a system administration and data center 
                 background and have never had to code. In supporting various linux systems, 
