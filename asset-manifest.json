@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/MyPortofolio2022/static/css/main.285a4071.css",
-    "main.js": "/MyPortofolio2022/static/js/main.1221a519.js",
+    "main.css": "/MyPortofolio2022/static/css/main.6ba6cf70.css",
+    "main.js": "/MyPortofolio2022/static/js/main.3b3f3f95.js",
     "static/js/787.1f11dfe9.chunk.js": "/MyPortofolio2022/static/js/787.1f11dfe9.chunk.js",
     "static/media/EventFinderProject2.png": "/MyPortofolio2022/static/media/EventFinderProject2.a1505884bb9163e874d9.png",
     "static/media/realEstateProject.png": "/MyPortofolio2022/static/media/realEstateProject.c4f76de74d603d7f2890.png",
@@ -11,12 +11,12 @@
     "static/media/NoteTaker.png": "/MyPortofolio2022/static/media/NoteTaker.ba1bc7b57d993c888aa0.png",
     "static/media/testEditorPWA.png": "/MyPortofolio2022/static/media/testEditorPWA.f45d20b236b946603322.png",
     "index.html": "/MyPortofolio2022/index.html",
-    "main.285a4071.css.map": "/MyPortofolio2022/static/css/main.285a4071.css.map",
-    "main.1221a519.js.map": "/MyPortofolio2022/static/js/main.1221a519.js.map",
+    "main.6ba6cf70.css.map": "/MyPortofolio2022/static/css/main.6ba6cf70.css.map",
+    "main.3b3f3f95.js.map": "/MyPortofolio2022/static/js/main.3b3f3f95.js.map",
     "787.1f11dfe9.chunk.js.map": "/MyPortofolio2022/static/js/787.1f11dfe9.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.285a4071.css",
-    "static/js/main.1221a519.js"
+    "static/css/main.6ba6cf70.css",
+    "static/js/main.3b3f3f95.js"
   ]
 }
