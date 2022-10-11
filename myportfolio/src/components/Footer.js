@@ -13,7 +13,7 @@ function Footer() {
             <LinkedInIcon />
             <TwitterIcon />
         </div>
-        <p> &copy; 2022 pcisatl.com </p>
+        <p> &copy; 2022 </p>
     </div>
   )
 }
