@@ -1,12 +1,14 @@
 import React from 'react'
-import ProjectItem from '../components/ProjectItem'
 import myPhoto from '../images/myphoto.jpg'
 import '../styles/Home.css'
+
+
 function Home() {
   return (
-    <div className='Home'>
-      
-      <ProjectItem name='myphoto.jpg' image={myPhoto} />
+    <div className='home'>
+      <div className='card'>
+      <img src={myPhoto} alt="myphoto" />
+      </div>
       <h2>Michael Andrews</h2>
     </div>
   )
