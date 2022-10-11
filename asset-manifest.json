@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/mandrews78/MyPortofolio2022/static/css/main.285a4071.css",
-    "main.js": "/mandrews78/MyPortofolio2022/static/js/main.7bc24b5f.js",
-    "static/js/787.1f11dfe9.chunk.js": "/mandrews78/MyPortofolio2022/static/js/787.1f11dfe9.chunk.js",
-    "static/media/EventFinderProject2.png": "/mandrews78/MyPortofolio2022/static/media/EventFinderProject2.a1505884bb9163e874d9.png",
-    "static/media/realEstateProject.png": "/mandrews78/MyPortofolio2022/static/media/realEstateProject.c4f76de74d603d7f2890.png",
-    "static/media/myphoto.jpg": "/mandrews78/MyPortofolio2022/static/media/myphoto.154771c3a9b6ba5814de.jpg",
-    "static/media/WorkDayScheduler.png": "/mandrews78/MyPortofolio2022/static/media/WorkDayScheduler.1b6a5c591d18a9ba113a.png",
-    "static/media/pwGenerator.png": "/mandrews78/MyPortofolio2022/static/media/pwGenerator.a68e5af036f36a43e114.png",
-    "static/media/NoteTaker.png": "/mandrews78/MyPortofolio2022/static/media/NoteTaker.ba1bc7b57d993c888aa0.png",
-    "static/media/testEditorPWA.png": "/mandrews78/MyPortofolio2022/static/media/testEditorPWA.f45d20b236b946603322.png",
-    "index.html": "/mandrews78/MyPortofolio2022/index.html",
-    "main.285a4071.css.map": "/mandrews78/MyPortofolio2022/static/css/main.285a4071.css.map",
-    "main.7bc24b5f.js.map": "/mandrews78/MyPortofolio2022/static/js/main.7bc24b5f.js.map",
-    "787.1f11dfe9.chunk.js.map": "/mandrews78/MyPortofolio2022/static/js/787.1f11dfe9.chunk.js.map"
+    "main.css": "/MyPortofolio2022/static/css/main.285a4071.css",
+    "main.js": "/MyPortofolio2022/static/js/main.1221a519.js",
+    "static/js/787.1f11dfe9.chunk.js": "/MyPortofolio2022/static/js/787.1f11dfe9.chunk.js",
+    "static/media/EventFinderProject2.png": "/MyPortofolio2022/static/media/EventFinderProject2.a1505884bb9163e874d9.png",
+    "static/media/realEstateProject.png": "/MyPortofolio2022/static/media/realEstateProject.c4f76de74d603d7f2890.png",
+    "static/media/myphoto.jpg": "/MyPortofolio2022/static/media/myphoto.154771c3a9b6ba5814de.jpg",
+    "static/media/WorkDayScheduler.png": "/MyPortofolio2022/static/media/WorkDayScheduler.1b6a5c591d18a9ba113a.png",
+    "static/media/pwGenerator.png": "/MyPortofolio2022/static/media/pwGenerator.a68e5af036f36a43e114.png",
+    "static/media/NoteTaker.png": "/MyPortofolio2022/static/media/NoteTaker.ba1bc7b57d993c888aa0.png",
+    "static/media/testEditorPWA.png": "/MyPortofolio2022/static/media/testEditorPWA.f45d20b236b946603322.png",
+    "index.html": "/MyPortofolio2022/index.html",
+    "main.285a4071.css.map": "/MyPortofolio2022/static/css/main.285a4071.css.map",
+    "main.1221a519.js.map": "/MyPortofolio2022/static/js/main.1221a519.js.map",
+    "787.1f11dfe9.chunk.js.map": "/MyPortofolio2022/static/js/787.1f11dfe9.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.285a4071.css",
-    "static/js/main.7bc24b5f.js"
+    "static/js/main.1221a519.js"
   ]
 }
