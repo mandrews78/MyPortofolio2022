@@ -10,7 +10,7 @@ function Footer() {
     <div className='footer'>
         <div className='socialMedia'>
             <a href="https://github.com/mandrews78" target="_blank"  rel="noreferrer"><GitHubIcon /></a>
-            <a href="http://www.linkedin.com/in/mandrews191198" target="_blank" rel="opener"><LinkedInIcon /></a>
+            <a href="http://www.linkedin.com/in/mandrews191198" target="_blank" rel="noreferrer"><LinkedInIcon /></a>
             <a href="https://twitter.com/mrandrews78" target="_blank" rel="noreferrer"> <TwitterIcon /></a>
         </div>
         <p> &copy; 2022 </p>
