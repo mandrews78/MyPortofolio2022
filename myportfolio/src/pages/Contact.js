@@ -7,7 +7,7 @@ import '../styles/Contact.css'
 function Contact() {
   return (
     
-    <div className='card'>
+    <div className='contactCard'>
 
 <Form>
 <Form.Group>
