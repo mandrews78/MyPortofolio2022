@@ -14,9 +14,13 @@ function projects() {
     <div className='projects'>
       <h1>My Projects</h1>
       <div className='projectList'>
+        
       <ProjectItem name="Password Generator" image={pwGenerator}/>
+      
       <ProjectItem name='Work Day Scheduler' image={WorkDayScheduler} />
+      
       <ProjectItem name='Note Taker' image={NoteTaker}/>
+      
       <ProjectItem name='Text Editor PWA' image={testEditorPWA} />
         
 

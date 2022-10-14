@@ -1,5 +1,9 @@
 .card {
-    align-items: center;
+  align-items: center;
+  width: 600;
+  justify-content: center;
+  background-color: lightgrey;
+  border: 5px solid black
     
   }
   

@@ -7,9 +7,7 @@ import '../styles/Contact.css'
 function Contact() {
   return (
     
-    <div className='card' style={{ display: 'block', 
-    width: 700, 
-    padding: 30 }}>
+    <div className='card'>
 
 <Form>
 <Form.Group>
